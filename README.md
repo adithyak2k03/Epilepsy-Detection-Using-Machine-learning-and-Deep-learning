@@ -1,8 +1,6 @@
-<!--# Epilepsy_Detection_Using_Deep_learning-->
-Epilepsy Detection using Machine learning , Deep learning and optimized with INTEL OneApi
 # AUTOMATED-DIAGNOSIS-OF-EPILEPSY-USING-EEG-SIGNALS(powered by Intel oneAPI)
- 
- This project focuses on detecting an epilepsy disease,which is an  is a central nervous system (neurological) disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations and sometimes loss of awareness,by providing DL & ML solution.
+
+This project focuses on detecting an epilepsy disease,which is an  is a central nervous system (neurological) disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations and sometimes loss of awareness,by providing DL & ML solution.
 
 ![Epilepsy_2](https://user-images.githubusercontent.com/90272634/230714210-9f8019ca-27fb-417d-b196-d6ccb8501470.jpg) ![Epilepsy](https://user-images.githubusercontent.com/90272634/230714090-4dd97c02-fdba-4b39-900b-2ba8f43199f2.jpg)
 
@@ -101,3 +99,24 @@ For the given dataset the machine learning algorithms are applied and evaluation
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
 
 Overall, building a epilepsy detecting device is a challenging and rewarding experience that requires both hardwarw and software knowledge on VLSI,IoT,machine learning and deep learning.This is my step to complete this challenging project by building a model for detection of epilepsy and we are in plan of deploying this codel in fpga with help of oneAPI and make an SoC(System on Chip) to make this prototype as wearable device.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
