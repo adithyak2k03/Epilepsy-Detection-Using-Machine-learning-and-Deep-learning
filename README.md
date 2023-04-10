@@ -1,4 +1,4 @@
-[//]: <># Epilepsy_Detection_Using_Deep_learning
+<!--# Epilepsy_Detection_Using_Deep_learning-->
 Epilepsy Detection using Machine learning , Deep learning and optimized with INTEL OneApi
 # AUTOMATED-DIAGNOSIS-OF-EPILEPSY-USING-EEG-SIGNALS(powered by Intel oneAPI)
  
